@@ -1,0 +1,65 @@
+[
+  {
+    "roomId": "room1",
+    "unReadCnt": 2,
+    "roomName": "친구 A",
+    "roomProfile": "https://placehold.co/100x100/png?text=FriendA",
+    "lastMessageAt": "2025-08-12T10:25:00.000Z",
+    "messages": [
+      {
+        "chatId": 1,
+        "profile": "https://placehold.co/50x50/png?text=User1",
+        "userId": 1,
+        "nickName": "User1",
+        "message": "안녕하세요!",
+        "messageAt": "2025-08-12T10:15:00.000Z",
+        "roomId": "room1"
+      },
+      {
+        "chatId": 2,
+        "profile": "https://placehold.co/50x50/png?text=UserA",
+        "userId": 2,
+        "nickName": "친구A",
+        "message": "안녕! 잘 지냈어?",
+        "messageAt": "2025-08-12T10:18:00.000Z",
+        "roomId": "room1"
+      },
+      {
+        "chatId": 3,
+        "profile": "https://placehold.co/50x50/png?text=User1",
+        "userId": 1,
+        "nickName": "User1",
+        "message": "응, 잘 지냈어! 이번 주말에 시간 돼?",
+        "messageAt": "2025-08-12T10:20:00.000Z",
+        "roomId": "room1"
+      }
+    ]
+  },
+  {
+    "roomId": "room2",
+    "unReadCnt": 0,
+    "roomName": "친구 B",
+    "roomProfile": "https://placehold.co/100x100/png?text=FriendB",
+    "lastMessageAt": "2025-08-12T09:25:00.000Z",
+    "messages": [
+      {
+        "chatId": 4,
+        "profile": "https://placehold.co/50x50/png?text=UserB",
+        "userId": 3,
+        "nickName": "친구B",
+        "message": "오늘 점심 뭐 먹을래?",
+        "messageAt": "2025-08-12T09:20:00.000Z",
+        "roomId": "room2"
+      },
+      {
+        "chatId": 5,
+        "profile": "https://placehold.co/50x50/png?text=User1",
+        "userId": 1,
+        "nickName": "User1",
+        "message": "나는 김밥 먹고 싶어~",
+        "messageAt": "2025-08-12T09:25:00.000Z",
+        "roomId": "room2"
+      }
+    ]
+  }
+]
