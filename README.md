@@ -26,8 +26,8 @@
 
 1. 저장소 클론
    ```bash
-   git clone https://github.com/yourname/chatapp.git
-   cd chatapp
+   git clone https://github.com/BGHyeon/react-native-local-chat-system.git
+   cd react-native-local-chat-system
    ```
 
 2. 의존성 설치
