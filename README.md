@@ -20,7 +20,6 @@
 - WatermelonDB (로컬 DB)
 - Socket.IO-client (실시간 통신)
 - React Navigation
-- 기타: 커스텀 폰트 스타일, 스타일 컴포넌트 등
 
 ## 설치 및 실행 방법
 
